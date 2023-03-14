@@ -1,0 +1,28 @@
+#navegacao{
+    display: inline-block;
+    background-color: #1cd93c;
+    width: 20%;
+    height: 1000px;
+    text-align: center;
+    padding-top: 15%;
+}
+
+#link{
+    color: black;
+}
+
+.image{
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+    width: 150px;
+    height: 150px;
+}
+
+#descricao{
+    display: inline-block;
+    width: 50%;
+    height: 1000px;
+    padding-top: 0%;
+}
